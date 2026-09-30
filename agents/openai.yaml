@@ -1,0 +1,4 @@
+interface:
+  display_name: "歌詞の比喩と語彙世界分析"
+  short_description: "比喩と世界を構成する言葉を精読し、セクションの働きと変化を根拠付きで分析"
+  default_prompt: "$lyrics-metaphor-world-analysis を使い、添付歌詞の比喩と語彙世界を分析した後、その結果に対応するセクション分析をしてください。"
